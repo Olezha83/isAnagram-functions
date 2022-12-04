@@ -1,4 +1,4 @@
-# Few ways to check if two strings are anagrams
+# Few ways to check if two strings are an anagram
 
 ### First
 
